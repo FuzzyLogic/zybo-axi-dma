@@ -6,4 +6,9 @@
 *.symvers
 *.cmd
 *.mod
+.*
 test_dma_inv
+
+# Hidden stuff
+.*
+!/.gitignore
