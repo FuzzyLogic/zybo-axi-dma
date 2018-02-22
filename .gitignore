@@ -7,7 +7,7 @@
 *.cmd
 *.mod
 .*
-test_dma_inv
+sw/user_space_test/test_dma_inv
 
 # Hidden stuff
 .*
