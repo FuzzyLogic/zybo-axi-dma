@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+*.ko
+*.order
+*.mod.c
+*.symvers
+*.cmd
+*.mod
+test_dma_inv
